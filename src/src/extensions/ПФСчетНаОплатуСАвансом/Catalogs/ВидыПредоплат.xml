@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.13">
+	<Catalog uuid="66df562a-e2e3-4a1c-a8f5-c19469fe64ec">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.ВидыПредоплат" category="Object">
+				<xr:TypeId>cf27e491-1d4a-4180-86fc-385bfa822695</xr:TypeId>
+				<xr:ValueId>a7ecddec-c2ab-433e-bc97-fc96fd1f1e16</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.ВидыПредоплат" category="Ref">
+				<xr:TypeId>ca90b829-d0e7-4e0d-9dba-0b41df710e96</xr:TypeId>
+				<xr:ValueId>6e41a0d8-3750-42e1-bf56-306bce0b2207</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.ВидыПредоплат" category="Selection">
+				<xr:TypeId>e02af006-ee3b-4fd7-982f-58d91ba06641</xr:TypeId>
+				<xr:ValueId>1cb43a30-c353-48fd-ae02-a2227eda11f9</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.ВидыПредоплат" category="List">
+				<xr:TypeId>1219d696-3c91-4c7b-b20d-c88311dccab5</xr:TypeId>
+				<xr:ValueId>aa92a6ab-43e0-4eff-b263-1371781cd2b1</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.ВидыПредоплат" category="Manager">
+				<xr:TypeId>70121ec3-ec68-4153-9488-1aced380b4b8</xr:TypeId>
+				<xr:ValueId>5aee896b-1da3-4214-ab22-237633a9771c</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>ВидыПредоплат</Name>
+			<Comment/>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<ExtendedConfigurationObject>fa7ae443-f76f-47af-a8e4-b8b2b1e10870</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects>
+			<Attribute uuid="382457a8-9b81-4b01-9769-f0c0c01b38ae">
+				<InternalInfo/>
+				<Properties>
+					<Name>ПолноеНаименование</Name>
+					<Comment/>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<ExtendedConfigurationObject>0be55191-fdb8-4326-b8d4-cd49dd818ed8</ExtendedConfigurationObject>
+					<Type>
+						<v8:Type>xs:string</v8:Type>
+						<v8:StringQualifiers>
+							<v8:Length>0</v8:Length>
+							<v8:AllowedLength>Variable</v8:AllowedLength>
+						</v8:StringQualifiers>
+					</Type>
+				</Properties>
+			</Attribute>
+			<Attribute uuid="e860f9a8-370b-4011-9dd7-bc887c20fae3">
+				<InternalInfo/>
+				<Properties>
+					<Name>ПроцентПредоплаты</Name>
+					<Comment/>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<ExtendedConfigurationObject>4e87e52b-3fca-4060-9b56-ccdf03e8f78e</ExtendedConfigurationObject>
+					<Type>
+						<v8:Type>xs:decimal</v8:Type>
+						<v8:NumberQualifiers>
+							<v8:Digits>3</v8:Digits>
+							<v8:FractionDigits>0</v8:FractionDigits>
+							<v8:AllowedSign>Nonnegative</v8:AllowedSign>
+						</v8:NumberQualifiers>
+					</Type>
+				</Properties>
+			</Attribute>
+		</ChildObjects>
+	</Catalog>
+</MetaDataObject>

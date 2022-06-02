@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.13">
+	<Catalog uuid="b65b6e1c-0189-44b6-b2c7-57f1572ef99b">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.ГруппыСредствИзмерений" category="Object">
+				<xr:TypeId>5a02df3e-7cb4-430b-8981-2755365ae2f5</xr:TypeId>
+				<xr:ValueId>eb06b24f-3d4c-4468-84e8-be12fbb43313</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.ГруппыСредствИзмерений" category="Ref">
+				<xr:TypeId>51306f45-3ab2-4244-8b21-8ac834018b19</xr:TypeId>
+				<xr:ValueId>5a390da9-d080-425b-9e5e-470f7fe75b4d</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.ГруппыСредствИзмерений" category="Selection">
+				<xr:TypeId>0cbdd138-981e-46c1-9b98-ee2b616577e9</xr:TypeId>
+				<xr:ValueId>131b5d2d-7de5-4d55-835a-32468c28a0c6</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.ГруппыСредствИзмерений" category="List">
+				<xr:TypeId>95ce955b-02ef-4638-a5f5-3ab0884b3702</xr:TypeId>
+				<xr:ValueId>7b6a1d30-b56b-40dc-a939-8210e8028045</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.ГруппыСредствИзмерений" category="Manager">
+				<xr:TypeId>668a9f0e-86cf-422e-baa6-71fdc5c80175</xr:TypeId>
+				<xr:ValueId>0e94a963-343b-446f-822a-b9225e4923da</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>ГруппыСредствИзмерений</Name>
+			<Comment/>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<ExtendedConfigurationObject>1e98454a-101e-49df-b292-f1087f14c601</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects>
+			<Attribute uuid="695987c4-e228-45d5-b4b6-778a0f57c81c">
+				<InternalInfo/>
+				<Properties>
+					<Name>ТипСИ</Name>
+					<Comment/>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<ExtendedConfigurationObject>a4fdaf90-4ee1-435e-ab36-9a9c1c9e669b</ExtendedConfigurationObject>
+					<Type>
+						<v8:Type>xs:string</v8:Type>
+						<v8:StringQualifiers>
+							<v8:Length>100</v8:Length>
+							<v8:AllowedLength>Variable</v8:AllowedLength>
+						</v8:StringQualifiers>
+					</Type>
+				</Properties>
+			</Attribute>
+		</ChildObjects>
+	</Catalog>
+</MetaDataObject>

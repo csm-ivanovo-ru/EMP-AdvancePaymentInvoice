@@ -8,12 +8,12 @@
 
 ## [Unreleased] Неопубликованные изменения (не вошедшие в релиз)
 
-## [1.0.0]
+## [2.0.1]
 
 ### Добавлено
 
-- описание функционала первой версии
+- добавлена печатная форма счёта на аванс
 
-[Unreleased]: https://github.com/csm-ivanovo-ru/EMP-AdvancePaymentInvoice/compare/1.0.0...HEAD
-[1.0.1]: https://github.com/csm-ivanovo-ru/EMP-AdvancePaymentInvoice/compare/1.0.0...1.0.1
-[1.0.0]: https://github.com/csm-ivanovo-ru/EMP-AdvancePaymentInvoice/releases/tag/1.0.0
+[Unreleased]: https://github.com/csm-ivanovo-ru/EMP-AdvancePaymentInvoice/compare/2.0.1...HEAD
+[2.0.2]: https://github.com/csm-ivanovo-ru/EMP-AdvancePaymentInvoice/compare/2.0.1...2.0.2
+[2.0.1]: https://github.com/csm-ivanovo-ru/EMP-AdvancePaymentInvoice/releases/tag/2.0.1

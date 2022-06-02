@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.13">
+	<Catalog uuid="73960679-023d-4820-9adf-156f82006368">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.ИспытательноеОборудование" category="Object">
+				<xr:TypeId>dacff959-5dc3-43a7-92f0-b8eeb75690f1</xr:TypeId>
+				<xr:ValueId>648ea621-c640-4341-af83-d67c440b10f1</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.ИспытательноеОборудование" category="Ref">
+				<xr:TypeId>5a3d9ed4-2968-40ab-b721-4621b132f336</xr:TypeId>
+				<xr:ValueId>28039a7b-7f00-4e97-bb76-0cf420852d74</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.ИспытательноеОборудование" category="Selection">
+				<xr:TypeId>7ed0dfe2-4bf8-4c5b-9c3d-1cf4d56f029a</xr:TypeId>
+				<xr:ValueId>4c1ac107-2b61-4c04-9f93-9bb6253d9620</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.ИспытательноеОборудование" category="List">
+				<xr:TypeId>c6596e93-98a1-4e32-bd68-a4a3c99805e9</xr:TypeId>
+				<xr:ValueId>98836cfd-0f18-44e3-8c82-0b57ba356b18</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.ИспытательноеОборудование" category="Manager">
+				<xr:TypeId>51027050-9433-4dbc-8ae3-6e445ba8ea73</xr:TypeId>
+				<xr:ValueId>507b97f7-1d03-42bf-be37-07d05291fb37</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>ИспытательноеОборудование</Name>
+			<Comment/>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<ExtendedConfigurationObject>51cd121e-d0b0-4e3a-b3eb-d449e8fe7062</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

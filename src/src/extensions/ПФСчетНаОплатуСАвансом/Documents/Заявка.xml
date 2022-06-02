@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.13">
+	<Document uuid="1818c3f9-1935-4f2d-87ee-12bd30ed272f">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.Заявка" category="Object">
+				<xr:TypeId>10cd2657-a4cd-4cb0-8a3f-9253ebbb8887</xr:TypeId>
+				<xr:ValueId>da441b41-70af-4890-a9d8-b450a5eadb6c</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.Заявка" category="Ref">
+				<xr:TypeId>30420b43-89ea-4295-8ff5-adda339f0858</xr:TypeId>
+				<xr:ValueId>4e4bcacb-147c-4df5-a99f-ae16699b01e4</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.Заявка" category="Selection">
+				<xr:TypeId>5f7dc798-fcb9-44f2-a606-50fb1fd67df5</xr:TypeId>
+				<xr:ValueId>e5cbd9bb-d9c6-41f8-9172-dd17aecd99ed</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.Заявка" category="List">
+				<xr:TypeId>80cfec4a-0657-4993-84ba-b5e100d1791f</xr:TypeId>
+				<xr:ValueId>fcf148be-1d5c-4432-8ea3-7a3e0089057f</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.Заявка" category="Manager">
+				<xr:TypeId>c75d85c5-5937-45af-b48a-9cb8af8c11a1</xr:TypeId>
+				<xr:ValueId>bf8283b7-9aa4-44ca-ba81-518d1b45cc63</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>Заявка</Name>
+			<Comment/>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<ExtendedConfigurationObject>eab53d5f-9cb7-4e46-909c-277a2cc4086f</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects>
+			<TabularSection uuid="84b96f83-7862-4a11-8934-ba508f834a1d">
+				<InternalInfo>
+					<xr:GeneratedType name="DocumentTabularSection.Заявка.СписокРабот" category="TabularSection">
+						<xr:TypeId>0fde1758-5586-4f08-8028-bb322f681797</xr:TypeId>
+						<xr:ValueId>f2cc57dc-e825-49c2-b1c6-298703cef259</xr:ValueId>
+					</xr:GeneratedType>
+					<xr:GeneratedType name="DocumentTabularSectionRow.Заявка.СписокРабот" category="TabularSectionRow">
+						<xr:TypeId>aa714555-5c2b-4e87-8233-c06636631769</xr:TypeId>
+						<xr:ValueId>6f4cc7ad-bcf6-4387-8f79-1c45b2e0c472</xr:ValueId>
+					</xr:GeneratedType>
+				</InternalInfo>
+				<Properties>
+					<Name>СписокРабот</Name>
+					<Comment/>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<ExtendedConfigurationObject>dac1e52d-85dd-43c9-986e-1e52a1c3b1c6</ExtendedConfigurationObject>
+				</Properties>
+				<ChildObjects>
+					<Attribute uuid="744a4398-0a41-464f-a992-2ddf1a2e6415">
+						<InternalInfo/>
+						<Properties>
+							<Name>Оборудование</Name>
+							<Comment/>
+							<ObjectBelonging>Adopted</ObjectBelonging>
+							<ExtendedConfigurationObject>05b30b28-3076-4081-971f-77adebc94c9e</ExtendedConfigurationObject>
+							<Type>
+								<v8:TypeSet>cfg:AnyRef</v8:TypeSet>
+							</Type>
+						</Properties>
+					</Attribute>
+					<Attribute uuid="8a9d90e7-ad2c-4581-bfe7-5d5dc4e4f72f">
+						<InternalInfo/>
+						<Properties>
+							<Name>ПодразделениеОрганизации</Name>
+							<Comment/>
+							<ObjectBelonging>Adopted</ObjectBelonging>
+							<ExtendedConfigurationObject>42d6073e-9b5b-40a0-98da-9e8c9bb4edbb</ExtendedConfigurationObject>
+							<Type>
+								<v8:Type>cfg:CatalogRef.ПодразделенияОрганизаций</v8:Type>
+							</Type>
+						</Properties>
+					</Attribute>
+				</ChildObjects>
+			</TabularSection>
+		</ChildObjects>
+	</Document>
+</MetaDataObject>

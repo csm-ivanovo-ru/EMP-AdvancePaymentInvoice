@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.13">
+	<Catalog uuid="c4f6eb0e-95ad-4c9d-85fa-f734b56ee6cf">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.СредстваИзмеренийКлиентов" category="Object">
+				<xr:TypeId>8cf4cd91-3cb4-473f-be98-7c08fddfd29d</xr:TypeId>
+				<xr:ValueId>a896e624-66ba-47b9-8b9d-2f974d13a2e4</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.СредстваИзмеренийКлиентов" category="Ref">
+				<xr:TypeId>a66943c6-9182-4d35-b552-42cdf462bf93</xr:TypeId>
+				<xr:ValueId>ffcf4c31-d735-41d8-b548-0eeabb01e5d2</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.СредстваИзмеренийКлиентов" category="Selection">
+				<xr:TypeId>c74b03ee-2e72-47b8-9bf0-7c47aed14538</xr:TypeId>
+				<xr:ValueId>46ca3da4-2f94-4571-b0ef-cfb54729e5c4</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.СредстваИзмеренийКлиентов" category="List">
+				<xr:TypeId>df997b63-b8d6-4824-88d8-96994f0d8ca2</xr:TypeId>
+				<xr:ValueId>76c5d628-9b67-4c27-a7af-2797497d30c3</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.СредстваИзмеренийКлиентов" category="Manager">
+				<xr:TypeId>84325084-5125-47ad-875a-2364b485ab25</xr:TypeId>
+				<xr:ValueId>7ab0aa7d-b7b1-4337-a959-4fea9930327e</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>СредстваИзмеренийКлиентов</Name>
+			<Comment/>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<ExtendedConfigurationObject>015cccb0-bfa9-4357-9471-ce436310c2fd</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects>
+			<Attribute uuid="0abb3f22-3a9d-468d-b11a-b1df9f20133d">
+				<InternalInfo/>
+				<Properties>
+					<Name>Модификация</Name>
+					<Comment/>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<ExtendedConfigurationObject>bd08805e-af28-499e-a8ac-a5e3299dea5d</ExtendedConfigurationObject>
+					<Type>
+						<v8:Type>xs:string</v8:Type>
+						<v8:StringQualifiers>
+							<v8:Length>150</v8:Length>
+							<v8:AllowedLength>Variable</v8:AllowedLength>
+						</v8:StringQualifiers>
+					</Type>
+				</Properties>
+			</Attribute>
+			<Attribute uuid="dc8590d8-97a1-40b6-b9c7-d705e027ec80">
+				<InternalInfo/>
+				<Properties>
+					<Name>ТипСИ</Name>
+					<Comment/>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<ExtendedConfigurationObject>b8931cb8-3a05-4f7b-9a16-a6a2dd108b19</ExtendedConfigurationObject>
+					<Type>
+						<v8:Type>xs:string</v8:Type>
+						<v8:StringQualifiers>
+							<v8:Length>0</v8:Length>
+							<v8:AllowedLength>Variable</v8:AllowedLength>
+						</v8:StringQualifiers>
+					</Type>
+				</Properties>
+			</Attribute>
+			<Attribute uuid="175a6160-cec5-4887-aea5-b2b6f0e5fb91">
+				<InternalInfo/>
+				<Properties>
+					<Name>ЗаводскойНомер</Name>
+					<Comment/>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<ExtendedConfigurationObject>0487f592-84b6-45cb-bb91-ddfdab892e63</ExtendedConfigurationObject>
+					<Type>
+						<v8:Type>xs:string</v8:Type>
+						<v8:StringQualifiers>
+							<v8:Length>200</v8:Length>
+							<v8:AllowedLength>Variable</v8:AllowedLength>
+						</v8:StringQualifiers>
+					</Type>
+				</Properties>
+			</Attribute>
+		</ChildObjects>
+	</Catalog>
+</MetaDataObject>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.13">
+	<Document uuid="bb0c11af-05bd-4d21-9f31-6e077c6d22d0">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ОснованияПраваПодписи" category="Object">
+				<xr:TypeId>a25eb422-2f70-4e45-8da6-bb8dea0a608b</xr:TypeId>
+				<xr:ValueId>7f3ccc5b-15e1-403f-a68f-704684b1e5f8</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ОснованияПраваПодписи" category="Ref">
+				<xr:TypeId>02139343-889d-4d26-b15f-2c3a8be19c98</xr:TypeId>
+				<xr:ValueId>9691faea-7389-4871-877c-593663617aa6</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ОснованияПраваПодписи" category="Selection">
+				<xr:TypeId>5daeea90-3b30-41cf-9bf7-4d806d32c09a</xr:TypeId>
+				<xr:ValueId>5004e35d-d9d0-4beb-b80a-328c464314ca</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ОснованияПраваПодписи" category="List">
+				<xr:TypeId>e38c0485-4ba6-45ef-91e4-fa98743bee73</xr:TypeId>
+				<xr:ValueId>cbbb96c5-0e4e-4a15-851f-7706239b08db</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ОснованияПраваПодписи" category="Manager">
+				<xr:TypeId>91993cfd-b979-4aa5-a567-ad52c7014125</xr:TypeId>
+				<xr:ValueId>ccdeb0fd-ce98-4157-b097-743fcf17101b</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>ОснованияПраваПодписи</Name>
+			<Comment/>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<ExtendedConfigurationObject>4921d7a5-f91b-475d-8f96-4f3d6ece7b0e</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

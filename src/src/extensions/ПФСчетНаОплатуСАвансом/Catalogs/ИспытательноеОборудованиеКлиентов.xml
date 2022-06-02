@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.13">
+	<Catalog uuid="e4d22df3-2c8c-4403-8c8e-63b7e7523024">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.ИспытательноеОборудованиеКлиентов" category="Object">
+				<xr:TypeId>e7f49324-1460-41b8-b820-99b1b726356f</xr:TypeId>
+				<xr:ValueId>689eb0e7-28fa-4cc2-91e0-9375fde574f1</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.ИспытательноеОборудованиеКлиентов" category="Ref">
+				<xr:TypeId>16ee89ec-ba67-4e3f-b574-8ab9d591d354</xr:TypeId>
+				<xr:ValueId>5a52b1fa-ffb3-4db2-842f-87b873b0b37b</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.ИспытательноеОборудованиеКлиентов" category="Selection">
+				<xr:TypeId>aa196381-b3e6-48bb-9cf5-ac483e664401</xr:TypeId>
+				<xr:ValueId>3b4f7ac6-c388-4a11-b6f6-c1e34e6577d9</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.ИспытательноеОборудованиеКлиентов" category="List">
+				<xr:TypeId>cab174d0-bdf7-4837-a85a-6be292308fa7</xr:TypeId>
+				<xr:ValueId>e1dc85f1-be27-4552-b89a-c64c1a570439</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.ИспытательноеОборудованиеКлиентов" category="Manager">
+				<xr:TypeId>a56e83f0-2cac-475e-8781-f757780e5ba4</xr:TypeId>
+				<xr:ValueId>cce7222e-c7c0-47de-8ea8-4751247d695a</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>ИспытательноеОборудованиеКлиентов</Name>
+			<Comment/>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<ExtendedConfigurationObject>50832cb8-7c3f-49ec-9a18-30de28bbff70</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>
